@@ -5,4 +5,4 @@ This repository contains two datasets in Spanish (CIC-ES) and Catalan (CIC-CA) t
 The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which express stance towards the target - independence of Catalonia. The distribution of the classes in the corpus is the following: 
 
 - **CIC-CA** consists of 10048 examples of annotated tweets: Against- 3988, Favor - 3902, Neutral - 2158. 
-- **CIC-ES** consists of 10048 examples of annotated tweets: Against- 4105, Favor - 4104, Neutral - 1868. 
+- **CIC-ES** consists of 10077 examples of annotated tweets: Against- 4105, Favor - 4104, Neutral - 1868. 
