@@ -6,3 +6,5 @@ The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which ex
 
 - **CIC-CA** consists of 10048 examples of annotated tweets: Against- 3988, Favor - 3902, Neutral - 2158. 
 - **CIC-ES** consists of 10077 examples of annotated tweets: Against- 4105, Favor - 4104, Neutral - 1868. 
+
+Each dataset is splitted into train, validation and test sets in relation 60/20/20. 
