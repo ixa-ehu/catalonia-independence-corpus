@@ -9,6 +9,7 @@ The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which ex
 
 Each dataset is splitted into train, validation and test sets in relation 60/20/20. 
 
-# How to Use
+# Reference
 
-Please cite the following publication 
+Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus. In LREC 2020.
+
